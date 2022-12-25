@@ -1,4 +1,7 @@
-# React-Python-Week: Project MyTeacher
+# MyTeacher
 
+**MyTeacher** is a project made with builded when I participated in  **TreinaWeb Multistack #4 - Semana React Python** with folling structure:
 
-TreinaSeb Multistack #4 - Semana React Python
+    - UI ( Front-end ) -> Python, Djando
+    - Business roles ( Back-end ) -> Python, Djando and Django Rest FrameWork
+
